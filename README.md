@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vincent Quijano</h1>
-<h3 align="center">Computer Science Student at Middlesex Community College</h3>
+<h3 align="center">Computer Science Student at Central Connecticut State University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
